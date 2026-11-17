@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Canonical_wD-MPNN",
+    "hidden_size": 300,
+    "trainable_params": 355202,
+    "batch_size": 50,
+    "eval_fwd_ms": 6.242,
+    "train_fwdbwd_ms": 16.122,
+    "eval_throughput_polymers_per_s": 8009.9,
+    "train_throughput_polymers_per_s": 3101.3,
+    "eval_peak_mem_mb": 61.87,
+    "train_peak_mem_mb": 106.52
+  },
+  {
+    "name": "Canonical_wD-MPNN_ParamMatched",
+    "hidden_size": 600,
+    "trainable_params": 1250402,
+    "batch_size": 50,
+    "eval_fwd_ms": 6.281,
+    "train_fwdbwd_ms": 15.863,
+    "eval_throughput_polymers_per_s": 7960.9,
+    "train_throughput_polymers_per_s": 3152.0,
+    "eval_peak_mem_mb": 124.36,
+    "train_peak_mem_mb": 149.25
+  },
+  {
+    "name": "Evolved_wD-MPNN",
+    "hidden_size": 300,
+    "trainable_params": 1255802,
+    "batch_size": 50,
+    "eval_fwd_ms": 4.334,
+    "train_fwdbwd_ms": 10.894,
+    "eval_throughput_polymers_per_s": 11536.3,
+    "train_throughput_polymers_per_s": 4589.6,
+    "eval_peak_mem_mb": 100.27,
+    "train_peak_mem_mb": 124.22
+  }
+]
