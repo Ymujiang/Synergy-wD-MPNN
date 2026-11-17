@@ -143,9 +143,9 @@ python scripts/profile_throughput.py --batch_size 50 --gpu 0
 If you use `Synergy-wD-MPNN` in your research, please cite the accompanying manuscript and the foundational `wD-MPNN` work:
 
 ```bibtex
-@article{synergy_wdmpnn_2026,
-  title={Multi-Scale Non-Linear Polymer Readout and Bidirectional Synergy Aggregation for Out-of-Distribution Copolymer Property Prediction},
-  author={Author, First and Author, Corresponding},
+@article{tian2026synergy,
+  title={Resolving Electronic and Morphological Dilution in Polymer Graph Neural Networks via Multi-Scale Stochastic Readout and Frontier Synergy Aggregation},
+  author={Tian, Hengyan and Dong, Lina and Yang, Fei and Jiang, Dengbang and Li, Chunyin and Yuan, Minglong},
   journal={Macromolecules},
   year={2026},
   note={Submitted}
