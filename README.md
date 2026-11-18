@@ -146,7 +146,7 @@ If you use `Synergy-wD-MPNN` in your research, please cite the accompanying manu
 @article{tian2026synergy,
   title={Resolving Electronic and Morphological Dilution in Polymer Graph Neural Networks via Multi-Scale Stochastic Readout and Frontier Synergy Aggregation},
   author={Tian, Hengyan and Dong, Lina and Yang, Fei and Jiang, Dengbang and Li, Chunyin and Yuan, Minglong},
-  journal={Macromolecules},
+  journal={Journal of Chemical Theory and Computation},
   year={2026},
   note={Submitted}
 }
